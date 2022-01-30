@@ -1,0 +1,8 @@
+git is used for saving the history of the project
+every day we are contributing to the project
+github is a online platform that helps to host our git repository i.e our project
+Repository is a folder where all the changes are saved
+
+mkdir project
+
+cd project
